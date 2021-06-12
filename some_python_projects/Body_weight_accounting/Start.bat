@@ -1,2 +1,0 @@
-python MNK.py
-pause
